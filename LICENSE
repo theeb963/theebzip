@@ -1,0 +1,22 @@
+# Compiled Executables & Binaries
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+
+# Archives and Test outputs
+*.theeb
+*.rar
+*.zip
+*.iso
+*.7z
+*.tar
+*.gz
+*.restored
+*.extracted
+
+# VS Code & Environment Settings
+.vscode/
+.vs/
+*.log
